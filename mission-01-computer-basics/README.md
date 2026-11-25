@@ -45,10 +45,10 @@ No Terminal commands were needed for this mission. I looked at my own computer t
 Every computer works in the same basic cycle: input, processing, output and storage. Hardware is the physical parts I can touch, and software is the programs that tell the hardware what to do. Software can be an operating system that manages everything, an application that I use for a task, or a utility that helps look after the computer. I noticed that things like an ATM or a traffic signal are also computers because they take an input, process it and give an output.
 
 ## 5. Difficulties faced
-No major difficulties.
+I was confused about two things. First, Terminal: I wasn't sure if it counts as application software or utility software, since it is used to manage the computer but also just a program I open to do a task. Second, I mixed up RAM and SSD at first, because both hold data. It was also hard to choose one activity for IPOS since almost everything I do on the computer has all four stages.
 
 ## 6. How I resolved them
-Not applicable.
+For Terminal, I went back to the definitions in the assignment. Utility software is for maintaining or protecting the computer, and Terminal is mainly a tool I open to run commands and do work, so I put it under application software. Activity Monitor is the one that actually watches and manages the computer, so that went under utility. For RAM and SSD, I decided RAM is the temporary memory used while something is running and the SSD keeps files even when the laptop is off, which is why the PDF is stored on the SSD. For the activity, I just picked something I really did today, downloading the assignment PDF.
 
 ## 7. Evidence / files
 - This README with the three tables.
@@ -56,3 +56,5 @@ Not applicable.
 ## 8. Commit details
 Commit message: "Complete computer basics and IPOS mission"
 Pushed to GitHub and checked that the file shows up there.
+
+Later I made a second small commit, "Add difficulties and resolutions to Mission 1 README", because I had left the difficulties section too short the first time.
