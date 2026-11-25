@@ -16,6 +16,14 @@ This is my Diwali independent learning assignment. The idea is to explore how my
 
 Every mission was finished, written up and committed separately before I started the next one, so the commit history shows the order I worked in.
 
+## My Learning
+
+Some things I have learned so far:
+
+- Most Terminal commands print nothing when they work, so I have to check with `ls` or `cat`. Also `>` replaces a file's contents but `>>` adds to the end.
+- Binary, decimal and hex are just different ways to write the same number, and Python's `bin()`, `hex()` and `int()` gave the same answers as my hand calculations.
+- A process is a running program and each one has its own PID. The permission letters (`rwx`) show who can read, write or run a file.
+
 ## Topics explored
 
 (will fill this in at the end)
