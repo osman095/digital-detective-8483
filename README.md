@@ -18,12 +18,25 @@ Every mission was finished, written up and committed separately before I started
 
 ## Topics explored
 
-(will fill this in at the end)
+- How a computer works: input, processing, output and storage (IPOS), hardware and software
+- Terminal commands, file management, flags and pipes, and package managers
+- The operating system: processes, paths, storage and file permissions
+- How programs run: compiler vs interpreter, running a Python file
+- Binary, decimal and hex conversions, text encoding and a small Python converter
+- Git and GitHub: commits, a branch and a Pull Request
+- Networks: LAN, MAN, WAN, DNS, routers and what happens when a website opens
 
 ## Running the number converter
 
-(will add this after Mission 5)
+You need Python 3 installed. From the root of this repository run:
+
+```
+cd mission-05-numbers-data
+python3 number_converter.py
+```
+
+Then type a positive whole number when it asks. It shows the binary and hexadecimal version of that number, for example 13 gives `0b1101` and `0xd`.
 
 ## What I learned
 
-(will write this in the final mission)
+I learned that most of what a computer does comes down to simple steps that I can check myself in the Terminal. Commands often print nothing when they work, so I have to look at the result. Numbers and text are stored in binary, and my hand calculations matched Python's. Git keeps a history of my work and a branch with a Pull Request lets changes be looked at before they go into `main`. I also learned why DNS and packets matter when a website opens. Pull Request #1 (adding a "My Learning" section) is still open and not merged.
